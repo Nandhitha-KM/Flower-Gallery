@@ -1,16 +1,58 @@
-# React + Vite
+# 🌷 Flower React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Flower Gallery web application built using React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  Home Page
+- 🌹 Rose Page
+- 🌻 Sunflower Page
+- 🌷 Tulip Page
+- 🎨 Beautiful Soft Pink UI
+-  Fully Responsive Design
+-  React Router Navigation
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- React Router DOM
+- CSS Grid
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+src/
+ ├── Component/
+ │    ├── Header.jsx
+ │    ├── NavBar.jsx
+ │    ├── Home.jsx
+ │    ├── Rose.jsx
+ │    ├── Sunflower.jsx
+ │    ├── Tulip.jsx
+ │    ├── roses.js
+ │    ├── sunflowers.js
+ │    └── tulips.js
+ ├── App.jsx
+ └── main.jsx
+
+##  How To Run
+
+```bash
+npm install
+npm run dev
+
+
+<img width="600" height="880" alt="image" src="https://github.com/user-attachments/assets/41a4e743-6ea8-4a6b-87c4-db9ab960ed9e" />
+
+<img width="600" height="798" alt="image" src="https://github.com/user-attachments/assets/d2013bb5-927b-4342-bdef-2ca5ca6d1256" />
+
+<img width="600" height="892" alt="image" src="https://github.com/user-attachments/assets/d772f37e-b271-496f-8e15-e411a5edac51" />
+
+<img width="600" height="801" alt="image" src="https://github.com/user-attachments/assets/506f6ee1-669b-48a1-9fba-0f7dbc9671e2" />
+
+
+
+
+
+
+
