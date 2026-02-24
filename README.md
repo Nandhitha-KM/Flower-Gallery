@@ -21,19 +21,8 @@ This is a simple Flower Gallery web application built using React and Vite.
 
 ## 📂 Project Structure
 
-src/
- ├── Component/
- │    ├── Header.jsx
- │    ├── NavBar.jsx
- │    ├── Home.jsx
- │    ├── Rose.jsx
- │    ├── Sunflower.jsx
- │    ├── Tulip.jsx
- │    ├── roses.js
- │    ├── sunflowers.js
- │    └── tulips.js
- ├── App.jsx
- └── main.jsx
+<img width="259" height="533" alt="image" src="https://github.com/user-attachments/assets/6ec89278-5cc7-43d0-81a2-8d82784aa43f" />
+
 
 ##  How To Run
 
