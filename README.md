@@ -24,6 +24,8 @@ This is a simple Flower Gallery web application built using React and Vite.
 <img width="259" height="533" alt="image" src="https://github.com/user-attachments/assets/6ec89278-5cc7-43d0-81a2-8d82784aa43f" />
 
 
+---
+
 
 
 <img width="600" height="880" alt="image" src="https://github.com/user-attachments/assets/41a4e743-6ea8-4a6b-87c4-db9ab960ed9e" />
